@@ -7,3 +7,4 @@
 
 Introduces correlation, regression, and ranking functions in SQL to help you derive more meaning from data sets.
 
+i just went through this repo and it is actually insightful. 
